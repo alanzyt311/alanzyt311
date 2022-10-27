@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Yutao Zhou, also go by Alan.
-- 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently studying computer science in University of Illinois, Urbana-Champaign.
-- 📫 I'm actuvely seeking software development engineer intern for 2023 summer!
+- 👋 I am a CS graduate student at the University of Illinois Urbana-Champaign (UIUC). I am passionate about building back-end systems and networked systems. I am actively looking for a 2023 summer software engineering internship position.
 
 <!---
 alanzyt311/alanzyt311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
