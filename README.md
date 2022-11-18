@@ -1,4 +1,6 @@
-- 👋 I am a CS graduate student at the University of Illinois Urbana-Champaign (UIUC). I am passionate about building back-end systems and networked systems. I am actively looking for a 2023 summer software engineering internship position.
+- 👋 I am Yutao Zhou, also go by Alan! I am pursuing my master degree in computer science at University of Illinois, Urbana-Champaign . I am passionate about building back-end systems and networked systems. I am actively looking for a 2023 summer software engineering internship position.
+
+- Here is a [summary](https://www.notion.so/alanzzz/9511a14749844026b3837424d421146b?v=0b20452ea27f43af85190b98d5cb8fe2) of video analytics works that I made to mark my previous research project.
 
 <!---
 alanzyt311/alanzyt311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
